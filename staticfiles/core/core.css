@@ -1,0 +1,7 @@
+body {
+    max-width: 650px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(69,16,90,1) 47%, rgba(174,138,193,1) 100%); 
+    color: whitesmoke;
+    margin: auto;
+}
